@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleTest/1.0.0": {
+        "dependencies": {
+          "ParralelSort": "1.0.0",
+          "StringSort": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTest.dll": {}
+        }
+      },
+      "ParralelSort/1.0.0": {
+        "runtime": {
+          "ParralelSort.dll": {}
+        }
+      },
+      "StringSort/1.0.0": {
+        "dependencies": {
+          "ParralelSort": "1.0.0"
+        },
+        "runtime": {
+          "StringSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParralelSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
