@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoY4rejJMcLsk/XCrLT6ohn7FRq1ape3ogFFn9ThQv9+suj/x/i2KyNeX7UG8T7OOT4fubg1BnB0NIxX27/j3w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\UserName\\Desktop\\п\\sorts\\ArraySort\\sortMethods\\TSort\\ConsoleTest\\ConsoleTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\UserName\\Desktop\\п\\sorts\\ArraySort\\sortMethods\\TSort\\ClassLib\\ClassLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\UserName\\Desktop\\п\\sorts\\ArraySort\\sortMethods\\TSort\\ClassLib\\ClassLib.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

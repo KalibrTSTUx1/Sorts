@@ -1,0 +1,1042 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\blankSolution.csproj": {}
+  },
+  "projects": {
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\blankSolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\blankSolution.csproj",
+        "projectName": "blankSolution",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\blankSolution.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj",
+        "projectName": "forms",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\sortMethods\\sortMethods.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\sortMethods\\sortMethods.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj",
+        "projectName": "FourElemsSort",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj",
+        "projectName": "InterfaceFourElems",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\ResF\\ResF.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\ResF\\ResF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\ResF\\ResF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\ResF\\ResF.csproj",
+        "projectName": "ResF",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\ResF\\ResF.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\ResF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\FourElemsSort\\FourElemsSort.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\sortMethods\\sortMethods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\sortMethods\\sortMethods.csproj",
+        "projectName": "sortMethods",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\sortMethods\\sortMethods.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\sortMethods\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\ClassLib\\ClassLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\ClassLib\\ClassLib.csproj",
+        "projectName": "ClassLib",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\ClassLib\\ClassLib.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\ClassLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\PSortModule\\ParralelSort.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\PSortModule\\ParralelSort.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\ClassLib\\ClassLib.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\WinFormsApp1\\WinFormsApp1.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\WinFormsApp1\\WinFormsApp1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\PSortModule\\ParralelSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\PSortModule\\ParralelSort.csproj",
+        "projectName": "ParralelSort",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\PSortModule\\ParralelSort.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\PSortModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\WinFormsApp1\\WinFormsApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectName": "WinFormsApp1",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\WinFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\ClassLib\\TSortLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\ClassLib\\TSortLib.csproj",
+        "projectName": "TSortLib",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\ClassLib\\TSortLib.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\ClassLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj",
+        "projectName": "TSortGraph",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\ClassLib\\TSortLib.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\ClassLib\\TSortLib.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\WinFormsApp1\\WinFormsApp1.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\WinFormsApp1\\WinFormsApp1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\WinFormsApp1\\WinFormsApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectName": "WinFormsApp1",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\WinFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Floyd\\ParralelSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Floyd\\ParralelSort.csproj",
+        "projectName": "ParralelSort",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Floyd\\ParralelSort.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Floyd\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\InfoForm\\InfoForm.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\InfoForm\\InfoForm.csproj",
+        "projectName": "InfoForm",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\InfoForm\\InfoForm.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\ManualInput\\ManualInput.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\ManualInput\\ManualInput.csproj",
+        "projectName": "ManualInput",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\ManualInput\\ManualInput.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj",
+        "projectName": "ParralelSortMainForm",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Floyd\\ParralelSort.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Floyd\\ParralelSort.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\InfoForm\\InfoForm.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\InfoForm\\InfoForm.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\ManualInput\\ManualInput.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\ManualInput\\ManualInput.csproj"
+              },
+              "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\TextResForm\\TextResForm.csproj": {
+                "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\TextResForm\\TextResForm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\TextResForm\\TextResForm.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\TextResForm\\TextResForm.csproj",
+        "projectName": "TextResForm",
+        "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\TextResForm\\TextResForm.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

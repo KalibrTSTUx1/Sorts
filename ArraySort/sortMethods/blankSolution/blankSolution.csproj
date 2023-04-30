@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\ParralelSort\Project\ParralelSortMainForm.csproj" />
+    <ProjectReference Include="..\forms\forms.csproj" />
+    <ProjectReference Include="..\InterfaceFourElems\InterfaceFourElems.csproj" />
+    <ProjectReference Include="..\StringSort\Interface\Interface.csproj" />
+    <ProjectReference Include="..\TSort\Interface\TSortGraph.csproj" />
+  </ItemGroup>
+
+</Project>

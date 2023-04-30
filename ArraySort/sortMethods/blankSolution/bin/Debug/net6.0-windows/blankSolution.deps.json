@@ -1,0 +1,207 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "blankSolution/1.0.0": {
+        "dependencies": {
+          "Interface": "1.0.0",
+          "InterfaceFourElems": "1.0.0",
+          "ParralelSortMainForm": "1.0.0",
+          "TSortGraph": "1.0.0",
+          "forms": "1.0.0"
+        },
+        "runtime": {
+          "blankSolution.dll": {}
+        }
+      },
+      "ClassLib/1.0.0": {
+        "dependencies": {
+          "ParralelSort": "1.0.0"
+        },
+        "runtime": {
+          "ClassLib.dll": {}
+        }
+      },
+      "forms/1.0.0": {
+        "dependencies": {
+          "sortMethods": "1.0.0"
+        },
+        "runtime": {
+          "forms.dll": {}
+        }
+      },
+      "FourElemsSort/1.0.0": {
+        "runtime": {
+          "FourElemsSort.dll": {}
+        }
+      },
+      "InfoForm/1.0.0": {
+        "runtime": {
+          "InfoForm.exe": {}
+        }
+      },
+      "Interface/1.0.0": {
+        "dependencies": {
+          "ClassLib": "1.0.0",
+          "WinFormsApp1": "1.0.0"
+        },
+        "runtime": {
+          "Interface.dll": {}
+        }
+      },
+      "InterfaceFourElems/1.0.0": {
+        "dependencies": {
+          "FourElemsSort": "1.0.0",
+          "ResF": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceFourElems.dll": {}
+        }
+      },
+      "ManualInput/1.0.0": {
+        "runtime": {
+          "ManualInput.exe": {}
+        }
+      },
+      "ParralelSort/1.0.0": {
+        "runtime": {
+          "ParralelSort.dll": {}
+        }
+      },
+      "ParralelSortMainForm/1.0.0": {
+        "dependencies": {
+          "InfoForm": "1.0.0",
+          "ManualInput": "1.0.0",
+          "ParralelSort": "1.0.0",
+          "TextResForm": "1.0.0"
+        },
+        "runtime": {
+          "ParralelSortMainForm.dll": {}
+        }
+      },
+      "ResF/1.0.0": {
+        "dependencies": {
+          "FourElemsSort": "1.0.0"
+        },
+        "runtime": {
+          "ResF.dll": {}
+        }
+      },
+      "sortMethods/1.0.0": {
+        "runtime": {
+          "sortMethods.dll": {}
+        }
+      },
+      "TextResForm/1.0.0": {
+        "runtime": {
+          "TextResForm.exe": {}
+        }
+      },
+      "TSortGraph/1.0.0": {
+        "dependencies": {
+          "TSortLib": "1.0.0",
+          "WinFormsApp1": "1.0.0"
+        },
+        "runtime": {
+          "TSortGraph.dll": {}
+        }
+      },
+      "TSortLib/1.0.0": {
+        "runtime": {
+          "TSortLib.dll": {}
+        }
+      },
+      "WinFormsApp1/1.0.0": {
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "blankSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FourElemsSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfoForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceFourElems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManualInput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParralelSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParralelSortMainForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sortMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextResForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSortGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSortLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

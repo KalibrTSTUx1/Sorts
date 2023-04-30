@@ -1,0 +1,36 @@
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\refint\TSortLib.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\ref\TSortLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\refint\TSortLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\ref\TSortLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\bin\Debug\net6.0\TSortLib.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\refint\TSortLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\TSortLib.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\ClassLib\obj\Debug\net6.0\ref\TSortLib.dll

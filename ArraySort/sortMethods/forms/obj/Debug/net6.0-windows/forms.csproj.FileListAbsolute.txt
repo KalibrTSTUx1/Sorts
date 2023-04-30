@@ -1,0 +1,147 @@
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.Form1.resources
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+C:\Users\UserName\Desktop\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.Form1.resources
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.Form1.resources
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.Form1.resources
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.arrayForm.resources
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\forms.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\bin\Debug\net6.0-windows\sortMethods.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.arrayForm.resources
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.formResult.resources
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.csproj.CopyComplete
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\refint\forms.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\ref\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\forms\obj\Debug\net6.0-windows\forms.arrayForm.resources

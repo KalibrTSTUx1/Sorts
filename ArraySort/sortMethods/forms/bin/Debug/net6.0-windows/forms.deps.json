@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "forms/1.0.0": {
+        "dependencies": {
+          "sortMethods": "1.0.0"
+        },
+        "runtime": {
+          "forms.dll": {}
+        }
+      },
+      "sortMethods/1.0.0": {
+        "runtime": {
+          "sortMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sortMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

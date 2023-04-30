@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TSortGraph/1.0.0": {
+        "dependencies": {
+          "TSortLib": "1.0.0",
+          "WinFormsApp1": "1.0.0"
+        },
+        "runtime": {
+          "TSortGraph.dll": {}
+        }
+      },
+      "TSortLib/1.0.0": {
+        "runtime": {
+          "TSortLib.dll": {}
+        }
+      },
+      "WinFormsApp1/1.0.0": {
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TSortGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSortLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

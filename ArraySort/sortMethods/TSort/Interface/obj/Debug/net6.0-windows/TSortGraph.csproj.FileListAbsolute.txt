@@ -1,0 +1,75 @@
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortLib.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortLib.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\Interface.graphForm.resources
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.CopyComplete
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\refint\TSortGraph.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.genruntimeconfig.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\ref\TSortGraph.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortLib.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\Interface.graphForm.resources
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.CopyComplete
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\refint\TSortGraph.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\ref\TSortGraph.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortGraph.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\TSortLib.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\Interface.graphForm.resources
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\refint\TSortGraph.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\TSortGraph.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\TSort\Interface\obj\Debug\net6.0-windows\ref\TSortGraph.dll

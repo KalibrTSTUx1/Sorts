@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Project/1.0.0": {
+        "dependencies": {
+          "InfoForm": "1.0.0",
+          "ManualInput": "1.0.0",
+          "ParralelSort": "1.0.0",
+          "TextResForm": "1.0.0"
+        },
+        "runtime": {
+          "Project.dll": {}
+        }
+      },
+      "InfoForm/1.0.0": {
+        "runtime": {
+          "InfoForm.exe": {}
+        }
+      },
+      "ManualInput/1.0.0": {
+        "runtime": {
+          "ManualInput.exe": {}
+        }
+      },
+      "ParralelSort/1.0.0": {
+        "runtime": {
+          "ParralelSort.dll": {}
+        }
+      },
+      "TextResForm/1.0.0": {
+        "runtime": {
+          "TextResForm.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfoForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManualInput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParralelSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextResForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

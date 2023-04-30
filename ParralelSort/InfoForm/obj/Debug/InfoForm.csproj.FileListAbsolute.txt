@@ -1,0 +1,22 @@
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\bin\Debug\InfoForm.exe.config
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\bin\Debug\InfoForm.exe
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\bin\Debug\InfoForm.pdb
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.csproj.SuggestedBindingRedirects.cache
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.InfoForm1.resources
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.Properties.Resources.resources
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.exe
+E:\первый курс\second semak\основы программирования\experiments\res\InfoForm\obj\Debug\InfoForm.pdb
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\bin\Debug\InfoForm.exe.config
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\bin\Debug\InfoForm.exe
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\bin\Debug\InfoForm.pdb
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.InfoForm1.resources
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.Properties.Resources.resources
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.exe
+C:\Users\UserName\Desktop\п\sorts\ParralelSort\InfoForm\obj\Debug\InfoForm.pdb

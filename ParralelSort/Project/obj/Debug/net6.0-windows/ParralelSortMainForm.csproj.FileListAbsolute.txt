@@ -1,0 +1,58 @@
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.exe
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.dll
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\InfoForm.exe
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ManualInput.exe
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSort.dll
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\TextResForm.exe
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSort.pdb
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\InfoForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\InfoForm.exe.config
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ManualInput.pdb
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\ManualInput.exe.config
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\TextResForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\bin\Debug\net6.0-windows\TextResForm.exe.config
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\Project.parralelSort.resources
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.CopyComplete
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.dll
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\refint\ParralelSortMainForm.dll
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Project\sorts\ParralelSort\Project\obj\Debug\net6.0-windows\ref\ParralelSortMainForm.dll
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.exe
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.dll
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSortMainForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\InfoForm.exe
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ManualInput.exe
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\TextResForm.exe
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\InfoForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\InfoForm.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ManualInput.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\ManualInput.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\TextResForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\bin\Debug\net6.0-windows\TextResForm.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\Project.parralelSort.resources
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.dll
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\refint\ParralelSortMainForm.dll
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ParralelSortMainForm.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\сортировка\ParralelSort\Project\obj\Debug\net6.0-windows\ref\ParralelSortMainForm.dll

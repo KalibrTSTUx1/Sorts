@@ -1,0 +1,72 @@
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\bin\Debug\net6.0\ParralelSort.deps.json
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\bin\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\bin\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\refint\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\experiments\res\Floyd\obj\Debug\net6.0\ref\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\bin\Debug\net6.0\ParralelSort.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\bin\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\bin\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\refint\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\res\Floyd\obj\Debug\net6.0\ref\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\refint\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\StringSort\PSortModule\obj\Debug\net6.0\ref\ParralelSort.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\refint\ParralelSort.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ref\ParralelSort.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\refint\ParralelSort.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ref\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\bin\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\refint\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\StringSort\PSortModule\obj\Debug\net6.0\ref\ParralelSort.dll

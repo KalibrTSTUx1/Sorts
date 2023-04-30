@@ -1,0 +1,84 @@
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\sorts\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+C:\Users\UserName\Desktop\sorts\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\sorts\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\bin\Debug\net6.0\sortMethods.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\refint\sortMethods.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\sortMethods.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\sortMethods\obj\Debug\net6.0\ref\sortMethods.dll

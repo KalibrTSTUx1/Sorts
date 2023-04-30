@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Interface/1.0.0": {
+        "dependencies": {
+          "ClassLib": "1.0.0",
+          "WinFormsApp1": "1.0.0"
+        },
+        "runtime": {
+          "Interface.dll": {}
+        }
+      },
+      "ClassLib/1.0.0": {
+        "runtime": {
+          "ClassLib.dll": {}
+        }
+      },
+      "WinFormsApp1/1.0.0": {
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

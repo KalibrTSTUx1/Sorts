@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InterfaceFourElems/1.0.0": {
+        "dependencies": {
+          "FourElemsSort": "1.0.0",
+          "ResF": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceFourElems.dll": {}
+        }
+      },
+      "FourElemsSort/1.0.0": {
+        "runtime": {
+          "FourElemsSort.dll": {}
+        }
+      },
+      "ResF/1.0.0": {
+        "dependencies": {
+          "FourElemsSort": "1.0.0"
+        },
+        "runtime": {
+          "ResF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceFourElems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FourElemsSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

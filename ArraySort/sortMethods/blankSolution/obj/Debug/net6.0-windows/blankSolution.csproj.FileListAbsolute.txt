@@ -1,0 +1,178 @@
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.exe
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.deps.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.runtimeconfig.json
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSort.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\sortMethods.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortLib.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSort.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\sortMethods.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortLib.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.blankSolutionForm.resources
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.AssemblyInfo.cs
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.CopyComplete
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\refint\blankSolution.dll
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.pdb
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.genruntimeconfig.cache
+C:\Users\UserName\Desktop\п\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\ref\blankSolution.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSort.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\sortMethods.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortLib.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSort.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\sortMethods.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortLib.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.blankSolutionForm.resources
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.CopyComplete
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\refint\blankSolution.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\ref\blankSolution.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.deps.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.runtimeconfig.json
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InfoForm.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ManualInput.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.dll
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TextResForm.exe
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InfoForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InfoForm.exe.config
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ManualInput.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ManualInput.exe.config
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TextResForm.pdb
+C:\Users\Анна\Desktop\Project\sorts\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TextResForm.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\blankSolution.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ClassLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InfoForm.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ManualInput.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\sortMethods.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TextResForm.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortLib.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSortMainForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\forms.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\Interface.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortGraph.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ClassLib.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InfoForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InfoForm.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ManualInput.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ManualInput.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ParralelSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\sortMethods.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TextResForm.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TextResForm.exe.config
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\TSortLib.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.blankSolutionForm.resources
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\refint\blankSolution.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\blankSolution.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\obj\Debug\net6.0-windows\ref\blankSolution.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InterfaceFourElems.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InterfaceFourElems.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InterfaceFourElems.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InterfaceFourElems.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\InterfaceFourElems.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ResF.deps.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ResF.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ResF.exe
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\FourElemsSort.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ResF.dll
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\FourElemsSort.pdb
+E:\первый курс\second semak\основы программирования\сортировка\ArraySort\sortMethods\blankSolution\bin\Debug\net6.0-windows\ResF.pdb

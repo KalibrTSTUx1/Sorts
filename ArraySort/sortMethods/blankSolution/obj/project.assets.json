@@ -1,0 +1,371 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ParralelSort": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLib.dll": {}
+        }
+      },
+      "forms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "sortMethods": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/forms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/forms.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "FourElemsSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FourElemsSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FourElemsSort.dll": {}
+        }
+      },
+      "InfoForm/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/InfoForm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfoForm.dll": {}
+        }
+      },
+      "Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLib": "1.0.0",
+          "WinFormsApp1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interface.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "InterfaceFourElems/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FourElemsSort": "1.0.0",
+          "ResF": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InterfaceFourElems.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfaceFourElems.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ManualInput/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ManualInput.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManualInput.dll": {}
+        }
+      },
+      "ParralelSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ParralelSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParralelSort.dll": {}
+        }
+      },
+      "ParralelSortMainForm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "InfoForm": "1.0.0",
+          "ManualInput": "1.0.0",
+          "ParralelSort": "1.0.0",
+          "TextResForm": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ParralelSortMainForm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParralelSortMainForm.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ResF/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FourElemsSort": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ResF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResF.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "sortMethods/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/sortMethods.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sortMethods.dll": {}
+        }
+      },
+      "TextResForm/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TextResForm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextResForm.dll": {}
+        }
+      },
+      "TSortGraph/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TSortLib": "1.0.0",
+          "WinFormsApp1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TSortGraph.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TSortGraph.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "TSortLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TSortLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TSortLib.dll": {}
+        }
+      },
+      "WinFormsApp1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WinFormsApp1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsApp1.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../StringSort/ClassLib/ClassLib.csproj",
+      "msbuildProject": "../StringSort/ClassLib/ClassLib.csproj"
+    },
+    "forms/1.0.0": {
+      "type": "project",
+      "path": "../forms/forms.csproj",
+      "msbuildProject": "../forms/forms.csproj"
+    },
+    "FourElemsSort/1.0.0": {
+      "type": "project",
+      "path": "../FourElemsSort/FourElemsSort.csproj",
+      "msbuildProject": "../FourElemsSort/FourElemsSort.csproj"
+    },
+    "InfoForm/1.0.0": {
+      "type": "project",
+      "path": "../../../ParralelSort/InfoForm/InfoForm.csproj",
+      "msbuildProject": "../../../ParralelSort/InfoForm/InfoForm.csproj"
+    },
+    "Interface/1.0.0": {
+      "type": "project",
+      "path": "../StringSort/Interface/Interface.csproj",
+      "msbuildProject": "../StringSort/Interface/Interface.csproj"
+    },
+    "InterfaceFourElems/1.0.0": {
+      "type": "project",
+      "path": "../InterfaceFourElems/InterfaceFourElems.csproj",
+      "msbuildProject": "../InterfaceFourElems/InterfaceFourElems.csproj"
+    },
+    "ManualInput/1.0.0": {
+      "type": "project",
+      "path": "../../../ParralelSort/ManualInput/ManualInput.csproj",
+      "msbuildProject": "../../../ParralelSort/ManualInput/ManualInput.csproj"
+    },
+    "ParralelSort/1.0.0": {
+      "type": "project",
+      "path": "../StringSort/PSortModule/ParralelSort.csproj",
+      "msbuildProject": "../StringSort/PSortModule/ParralelSort.csproj"
+    },
+    "ParralelSortMainForm/1.0.0": {
+      "type": "project",
+      "path": "../../../ParralelSort/Project/ParralelSortMainForm.csproj",
+      "msbuildProject": "../../../ParralelSort/Project/ParralelSortMainForm.csproj"
+    },
+    "ResF/1.0.0": {
+      "type": "project",
+      "path": "../ResF/ResF.csproj",
+      "msbuildProject": "../ResF/ResF.csproj"
+    },
+    "sortMethods/1.0.0": {
+      "type": "project",
+      "path": "../sortMethods/sortMethods.csproj",
+      "msbuildProject": "../sortMethods/sortMethods.csproj"
+    },
+    "TextResForm/1.0.0": {
+      "type": "project",
+      "path": "../../../ParralelSort/TextResForm/TextResForm.csproj",
+      "msbuildProject": "../../../ParralelSort/TextResForm/TextResForm.csproj"
+    },
+    "TSortGraph/1.0.0": {
+      "type": "project",
+      "path": "../TSort/Interface/TSortGraph.csproj",
+      "msbuildProject": "../TSort/Interface/TSortGraph.csproj"
+    },
+    "TSortLib/1.0.0": {
+      "type": "project",
+      "path": "../TSort/ClassLib/TSortLib.csproj",
+      "msbuildProject": "../TSort/ClassLib/TSortLib.csproj"
+    },
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "path": "../StringSort/WinFormsApp1/WinFormsApp1.csproj",
+      "msbuildProject": "../StringSort/WinFormsApp1/WinFormsApp1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Interface >= 1.0.0",
+      "InterfaceFourElems >= 1.0.0",
+      "ParralelSortMainForm >= 1.0.0",
+      "TSortGraph >= 1.0.0",
+      "forms >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\blankSolution.csproj",
+      "projectName": "blankSolution",
+      "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\blankSolution.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\blankSolution\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj": {
+              "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\forms\\forms.csproj"
+            },
+            "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj": {
+              "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\InterfaceFourElems\\InterfaceFourElems.csproj"
+            },
+            "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj": {
+              "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\StringSort\\Interface\\Interface.csproj"
+            },
+            "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj": {
+              "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ArraySort\\sortMethods\\TSort\\Interface\\TSortGraph.csproj"
+            },
+            "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj": {
+              "projectPath": "E:\\первый курс\\second semak\\основы программирования\\сортировка\\ParralelSort\\Project\\ParralelSortMainForm.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
