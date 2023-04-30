@@ -1,0 +1,34 @@
+grape
+tangerine
+plum
+watermelon
+cherry
+blackberry
+lychee
+pear
+pineapple
+fig
+kiwi
+orange
+apricot
+mandarin
+grapefruit
+1
+papaya
+lemon
+p each
+  blueberry
+melon
+apple
+  2
+3
+4
+strawberry
+mango
+5
+passionfruit
+ coconut
+raspberry
+guava
+  dragonfruit
+banana
